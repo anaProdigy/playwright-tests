@@ -1,0 +1,29 @@
+{
+  "name": "playwright-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anaProdigy/playwright-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anaProdigy/playwright-tests/issues"
+  },
+  "homepage": "https://github.com/anaProdigy/playwright-tests#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.0",
+    "@types/node": "^22.13.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "@browserbasehq/stagehand": "^1.14.0",
+    "dotenv": "^16.4.7",
+    "zod": "^3.24.2"
+  }
+}
